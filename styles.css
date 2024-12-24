@@ -131,3 +131,44 @@ footer {
         padding: 20px;
     }
 }
+/* Privacy Page Styles */
+.privacy-content {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+}
+
+.privacy-section {
+    margin-bottom: 30px;
+}
+
+.privacy-section h3 {
+    font-size: 1.4em;
+    margin-bottom: 15px;
+    color: #1d1d1f;
+}
+
+.privacy-section p {
+    margin-bottom: 15px;
+}
+
+.privacy-section ul {
+    list-style-position: inside;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
+.privacy-section ul li {
+    margin-bottom: 8px;
+}
+
+.privacy-content a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.privacy-content a:hover {
+    text-decoration: underline;
+}
